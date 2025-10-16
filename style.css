@@ -1,0 +1,8 @@
+.sticky{
+    position: sticky;
+    top: 0;
+    background-color: aquamarine;
+}
+
+.chat{
+   background-color: rgb(red, green, blue)
